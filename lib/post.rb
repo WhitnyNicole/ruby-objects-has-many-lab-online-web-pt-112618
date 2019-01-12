@@ -9,13 +9,13 @@ class Post
   end
   
   def self.all
-@@all
-end 
+    @@all
+  end 
 
 
-   def author_name
+  def author_name
     if author 
-      self.author.name 
+     self.author.name 
     else
       nil
     end
