@@ -26,5 +26,4 @@ class Artist
     self.artist.name
   end 
   
-x
 end 
